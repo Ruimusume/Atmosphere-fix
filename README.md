@@ -4,7 +4,7 @@ You only need TegraRcmGUI Inject payload to install and play games in atmosphere
 
 *All sets are not modified
 
-# The file contains the following
+## The file contains the following
 ### Atmosphere
 https://github.com/Atmosphere-NX/Atmosphere
 
