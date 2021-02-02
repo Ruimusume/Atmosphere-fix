@@ -22,3 +22,5 @@ https://github.com/rashevskyv/dbi
 
 ### sigpatches from gbatemp
 https://gbatemp.net/threads/571543/
+
+# How to use
