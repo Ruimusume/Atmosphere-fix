@@ -15,6 +15,7 @@ https://files.sshnuke.net/memloaderv3.zip
 https://github.com/XorTroll/Goldleaf
 
 ### EdiZon4.nro
+https://discord.com/invite/qyA38T8
 
 ### DBI (Using MTP USB in HBM in v11.0.0)
 https://github.com/rashevskyv/dbi
