@@ -1,6 +1,6 @@
 # What is Atmosphere-fix？
-A set of files that are compatible with switch firmware version and can directly install NSP files
-You only need tegrarcm GUI inject payload to install and play games in atmosphere environment
+A set of files that are compatible with switch firmware version and can directly install NSP files<br>
+You only need TegraRcmGUI Inject payload to install and play games in atmosphere environment
 
 *All sets are not modified
 
