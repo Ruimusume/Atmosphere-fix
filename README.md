@@ -1,6 +1,6 @@
 # What is Atmosphere-fix？（什么是Atmosphere-fix？）
-A set of files that are compatible with switch firmware version and can directly install NSP files<br>
-You only need TegraRcmGUI Inject payload to install and play games in atmosphere environment
+A set of files that are compatible with switch firmware version and can directly install NSP files.<br>
+You only need TegraRcmGUI Inject payload to install and play games in atmosphere environment.
 
 Atmosphere集合文件包，对应Swtich固件版可直接安装nps文件游戏进行游玩
 
@@ -27,3 +27,12 @@ https://github.com/rashevskyv/dbi
 https://gbatemp.net/threads/571543/
 
 # How to use（如何使用）
+Export rar,Please put the files in the SD folder into your SD card.<br>
+fusee-primary.bin It needs to be used by TegraRcmGUI Inject payload.<br>
+Put the NSP file into SD card and install it with Goldleaf.<br>
+Other functions, USB connection and USB installation of NSP files, please refer to my website.
+
+解压rar文件，把SD卡文件夹内的文件覆盖到你的SD卡内<br>
+fusee-primary.bin需要TegraRcmGUI注入运行进入大气层系统<br>
+把nsp文件放入sd里使用Goldleaf安装即可<br>
+其他功能usb连接以及usb安装nsp文件等请自行到我个人站内查阅
