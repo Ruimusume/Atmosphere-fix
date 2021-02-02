@@ -4,7 +4,7 @@ You only need TegraRcmGUI Inject payload to install and play games in atmosphere
 
 Atmosphere集合文件包，对应Swtich固件版可直接安装nps文件游戏进行游玩
 
-*All sets are not modified
+*All sets are not modified<br>
 *单纯集合有用文件无修改
 
 ## The file contains the following（集合文件来源以下）
