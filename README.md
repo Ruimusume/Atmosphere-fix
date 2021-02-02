@@ -1,4 +1,4 @@
-# What is Atmosphere-fix？
+# What is Atmosphere-fix？（什么是Atmosphere-fix？）
 A set of files that are compatible with switch firmware version and can directly install NSP files<br>
 You only need TegraRcmGUI Inject payload to install and play games in atmosphere environment
 
