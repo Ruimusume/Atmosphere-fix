@@ -2,7 +2,9 @@
 A set of files that are compatible with switch firmware version and can directly install NSP files.<br>
 You only need TegraRcmGUI Inject payload to install and play games in atmosphere environment.
 
-Atmosphere集合文件包，对应Swtich固件版可直接安装nps文件游戏进行游玩
+Atmosphere集合文件包（个人用），对应Swtich固件版可直接安装nps文件游戏进行游玩<br>
+个人嫌弃Kosmos那种整合乱七八糟的各种用不上<br>
+本文件集合为精简直接注入Atmosphere即可，单纯安装玩游戏和开金手指<br>
 
 *All sets are not modified<br>
 *单纯集合有用文件无修改
