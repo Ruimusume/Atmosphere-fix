@@ -16,7 +16,7 @@ https://github.com/Atmosphere-NX/Atmosphere
 ### memloaderv3 only ums_sd.ini
 https://files.sshnuke.net/memloaderv3.zip
 
-### Goldleaf 0.8
+### Goldleaf 0.9 dev(from XorTroll discord)
 https://github.com/XorTroll/Goldleaf
 
 ### EdiZon4.nro
