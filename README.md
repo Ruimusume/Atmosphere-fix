@@ -39,3 +39,4 @@ Other functions, USB connection and USB installation of NSP files, please refer 
 fusee-primary.bin需要TegraRcmGUI注入运行进入大气层系统<br>
 把nsp文件放入sd里使用Goldleaf安装即可<br>
 其他功能usb连接以及usb安装nsp文件等请自行到我个人站内查阅
+http://ruisan.blog.jp/archives/5924364.html
