@@ -27,7 +27,7 @@ https://discord.com/invite/qyA38T8
 ### DBI (Using MTP USB in HBM in v11.0.0)
 https://github.com/rashevskyv/dbi
 or
-###nxmtp
+### nxmtp
 https://github.com/liuervehc/nxmtp
 
 ### sigpatches from gbatemp
