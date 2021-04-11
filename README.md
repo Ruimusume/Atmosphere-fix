@@ -25,7 +25,7 @@ https://github.com/XorTroll/Goldleaf
 https://discord.com/invite/qyA38T8
 
 ### DBI (Using MTP USB in HBM in v11.0.0)
-https://github.com/rashevskyv/dbi
+https://github.com/rashevskyv/dbi<br>
 or
 ### nxmtp
 https://github.com/liuervehc/nxmtp
