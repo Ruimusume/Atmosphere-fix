@@ -21,8 +21,11 @@ https://files.sshnuke.net/memloaderv3.zip
 ### Goldleaf 0.9 dev(from XorTroll discord)
 https://github.com/XorTroll/Goldleaf
 
-### EdiZon4.nro
+### EdiZon4（below v11.0.1）
 https://discord.com/invite/qyA38T8
+
+### EdiZon SE（Above v12.0.0）
+https://github.com/tomvita/EdiZon-SE
 
 ### DBI
 https://github.com/rashevskyv/dbi
