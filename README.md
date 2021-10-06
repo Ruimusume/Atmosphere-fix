@@ -21,6 +21,11 @@ https://files.sshnuke.net/memloaderv3.zip
 ### Goldleaf 0.9 dev(from XorTroll discord)
 https://github.com/XorTroll/Goldleaf
 
+### Awoo-Installer（Above Atmosphere v1.1.1）
+https://github.com/Huntereb/Awoo-Installer
+### ns-usbloader（Awoo USB installation support）
+https://github.com/developersu/ns-usbloader
+
 ### EdiZon4（below v11.0.1）
 https://discord.com/invite/qyA38T8
 
