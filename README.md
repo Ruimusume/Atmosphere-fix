@@ -39,8 +39,7 @@ https://github.com/rashevskyv/dbi
 https://github.com/liuervehc/nxmtp
 
 ### sigpatches from gbatemp
-https://gbatemp.net/threads/571543/<br>
-https://github.com/eXhumer/patches
+https://gbatemp.net/threads/571543/
 
 # How to use（如何使用）
 Export rar,Please put the files in the SD folder into your SD card.<br>
