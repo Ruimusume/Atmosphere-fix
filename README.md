@@ -35,7 +35,8 @@ https://github.com/tomvita/EdiZon-SE
 ### DBI
 https://github.com/rashevskyv/dbi
 
-### nxmtp（*Obsolete software）
+### nxmtp
+<i>（*Obsolete software）</i><br>
 https://github.com/liuervehc/nxmtp
 
 ### sigpatches from gbatemp
