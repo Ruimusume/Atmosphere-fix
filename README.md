@@ -45,7 +45,13 @@ https://gbatemp.net/threads/571543/
 https://ruisan.blog.jp/archives/12676428.html
 
 ### ovlSysmodules插件v1.2.2
-此版本具体来源不明
+此版本具体来源不明，本github下载地址
+https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlSysmodules.v1.2.2.zip
+> File: ovlSysmodules.ovl
+> Size: 1019960 bytes
+> MD5: A1C9FF0503A783094FE34C8FF3EEAE7F
+> SHA1: 19A77BFCDAC36C263B0841F16510D8D5A3C44771
+> CRC32: 1275CE87
 
 # How to use（如何使用）
 Export rar,Please put the files in the SD folder into your SD card.<br>
