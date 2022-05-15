@@ -41,6 +41,12 @@ https://github.com/liuervehc/nxmtp
 ### sigpatches from gbatemp
 https://gbatemp.net/threads/571543/
 
+### Atmosphere Tesla使用&超频、帧数、金手指插件安装使用方法
+https://ruisan.blog.jp/archives/12676428.html
+
+### ovlSysmodules插件v1.2.2
+此版本具体来源不明
+
 # How to use（如何使用）
 Export rar,Please put the files in the SD folder into your SD card.<br>
 fusee-primary.bin It needs to be used by TegraRcmGUI Inject payload.<br>
