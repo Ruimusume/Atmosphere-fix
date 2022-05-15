@@ -46,7 +46,7 @@ https://gbatemp.net/threads/571543/
 https://ruisan.blog.jp/archives/12676428.html
 
 ### ovlSysmodules插件v1.2.2
-此版本具体来源不明，本github下载地址
+此版本具体来源不明因原github并非此版本，本github下载地址<br>
 https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlSysmodules.v1.2.2.zip
 > File: ovlSysmodules.ovl<br>
 > Size: 1019960 bytes<br>
