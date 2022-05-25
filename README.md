@@ -54,10 +54,6 @@ https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlSysmodul
 > SHA1: 19A77BFCDAC36C263B0841F16510D8D5A3C44771<br>
 > CRC32: 1275CE87
 
-### DeepSea-Toolbox
-工具作用是在破解环境下无需重启切换破解系统或运行hekate界面<br>
-https://github.com/Team-Neptune/DeepSea-Toolbox
-
 # How to use（如何使用）
 Export rar,Please put the files in the SD folder into your SD card.<br>
 fusee-primary.bin It needs to be used by TegraRcmGUI Inject payload.<br>
