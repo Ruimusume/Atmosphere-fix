@@ -57,10 +57,10 @@ https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlSysmodul
 ### ovlEdiZon插件v1.0.0
 此版本具体来源不明支持简繁字库显示，因为原github并非此版本，本github下载地址<br>
 https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlEdiZon.v1.0.0.zip
-> File: C:\Users\v_xyhe\Desktop\ovlEdiZon.ovl
-> Size: 1001669 bytes
-> MD5: FB37AADEC5C7987CE027994BFF26AA05
-> SHA1: 610820865D9E21C0FA11382A43FD8687B89441D6
+> File: C:\Users\v_xyhe\Desktop\ovlEdiZon.ovl<br>
+> Size: 1001669 bytes<br>
+> MD5: FB37AADEC5C7987CE027994BFF26AA05<br>
+> SHA1: 610820865D9E21C0FA11382A43FD8687B89441D6<br>
 > CRC32: C7BCEE3A
 
 # How to use（如何使用）
