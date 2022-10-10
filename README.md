@@ -34,6 +34,8 @@ https://github.com/tomvita/EdiZon-SE
 
 ### DBI
 https://github.com/rashevskyv/dbi
+### DBI校对数据库
+https://github.com/blawar/titledb/blob/master/versions.txt
 
 ### nxmtp
 <i>（*Obsolete software）</i><br>
