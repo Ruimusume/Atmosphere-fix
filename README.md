@@ -56,14 +56,9 @@ https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlSysmodul
 > SHA1: 19A77BFCDAC36C263B0841F16510D8D5A3C44771<br>
 > CRC32: 1275CE87
 
-### ovlEdiZon插件v1.0.0
-此版本具体来源不明支持简繁字库显示，因为原github并非此版本，本github下载地址<br>
-https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlEdiZon.v1.0.0.zip
-> File: C:\Users\v_xyhe\Desktop\ovlEdiZon.ovl<br>
-> Size: 1001669 bytes<br>
-> MD5: FB37AADEC5C7987CE027994BFF26AA05<br>
-> SHA1: 610820865D9E21C0FA11382A43FD8687B89441D6<br>
-> CRC32: C7BCEE3A
+### EdiZon-Overlay插件
+固件版本15.0.0用特斯拉金手指插件<br>
+https://github.com/proferabg/EdiZon-Overlay/releases
 
 # How to use（如何使用）
 Export rar,Please put the files in the SD folder into your SD card.<br>
