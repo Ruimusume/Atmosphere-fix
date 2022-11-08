@@ -15,6 +15,9 @@ Atmosphere集合文件包（个人用），对应Swtich固件版可直接安装n
 ### Atmosphere
 https://github.com/Atmosphere-NX/Atmosphere
 
+### hekate
+https://github.com/CTCaer/hekate
+
 ### memloaderv3 only ums_sd.ini
 https://files.sshnuke.net/memloaderv3.zip
 
