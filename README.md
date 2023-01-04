@@ -79,5 +79,5 @@ http://ruisan.blog.jp/archives/5924364.html
 # 线刷降级支持
 https://github.com/Ruimusume/Atmosphere-fix/releases/tag/11.0.1
 
-# 硬破14.1.1固件版本整合
-https://github.com/Ruimusume/Atmosphere-fix/releases/tag/14.1.1
+# 硬破15.0.1固件版本整合
+https://github.com/Ruimusume/Atmosphere-fix/releases/tag/15.0.1
