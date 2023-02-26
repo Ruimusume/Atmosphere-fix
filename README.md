@@ -49,7 +49,7 @@ https://gbatemp.net/threads/571543/
 ### Atmosphere Tesla使用&超频、帧数、金手指插件安装使用方法
 https://ruisan.blog.jp/archives/12676428.html
 
-###适配16.0.0 tesla
+### 适配16.0.0 tesla
 https://github.com/Ruimusume/Atmosphere-fix/releases/download/16.0.0/16.0.0_Tesla_fix.zip
 
 ### ovlSysmodules插件v1.2.2
