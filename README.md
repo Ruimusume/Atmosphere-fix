@@ -62,7 +62,7 @@ https://github.com/Ruimusume/Atmosphere-fix/releases/download/14.1.1/ovlSysmodul
 > CRC32: 1275CE87
 
 ### EdiZon-Overlay插件
-固件版本15.0.0用特斯拉金手指插件<br>
+固件版本15.0.0以上用特斯拉金手指插件<br>
 https://github.com/proferabg/EdiZon-Overlay/releases
 
 # How to use（如何使用）
