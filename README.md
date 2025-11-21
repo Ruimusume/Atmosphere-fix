@@ -34,7 +34,7 @@ https://github.com/developersu/ns-usbloader
 https://discord.com/invite/qyA38T8
 
 ### EdiZon SE（Above v12.0.0）
-https://github.com/tomvita/EdiZon-SE
+https://github.com/proferabg/EdiZon-Overlay
 
 ### DBI
 https://github.com/rashevskyv/dbi
