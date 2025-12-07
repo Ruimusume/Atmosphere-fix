@@ -46,8 +46,8 @@ https://github.com/liuervehc/nxmtp
 ### sigpatches from gbatemp
 https://gbatemp.net/threads/571543/
 
-### Atmosphere Tesla使用&超频、帧数、金手指插件安装使用方法
-https://ruisan.blog.jp/archives/12676428.html
+### Ultrahand-Overlay
+https://ruisan.blog.jp/archives/12676428.html](https://github.com/ppkantorski/Ultrahand-Overlay/releases
 
 ### ovlSysmodules插件v1.2.2
 此版本具体来源不明，因为原github并非此版本，本github下载地址<br>
