@@ -29,7 +29,7 @@ https://github.com/gzk47/DBIPatcher/releases
 ### Safe_Reboot_Shutdown
 https://github.com/dezem/Safe_Reboot_Shutdown/releases
 ### Ultrahand-Overlay
-https://ruisan.blog.jp/archives/12676428.html](https://github.com/ppkantorski/Ultrahand-Overlay/releases
+https://github.com/ppkantorski/Ultrahand-Overlay/releases
 ### ovlSysmodules插件
 https://github.com/zdm65477730/ovl-sysmodules/releases
 ### EdiZon-Overlay插件
