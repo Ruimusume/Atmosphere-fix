@@ -38,7 +38,7 @@ https://github.com/ppkantorski/Ultrahand-Overlay/releases
 ### ovlSysmodules插件
 https://github.com/zdm65477730/ovl-sysmodules/releases
 ### EdiZon-Overlay插件
-https://github.com/proferabg/EdiZon-Overlay
+https://github.com/proferabg/EdiZon-Overlay/releases
 
 # How to use（如何使用）
 Export rar,Please put the files in the SD folder into your SD card.<br>
