@@ -31,6 +31,8 @@ https://github.com/gzk47/DBIPatcher/releases<br>
 https://github.com/rashevskyv/dbi/releases
 ### Lockpick_RCM.bin
 https://github.com/THZoria/Lockpick_RCMaster/releases
+### LockSmith-RCM
+https://github.com/shadow2560/LockSmith-RCM/releases
 ### Safe_Reboot_Shutdown
 https://github.com/dezem/Safe_Reboot_Shutdown/releases
 ### Ultrahand-Overlay
