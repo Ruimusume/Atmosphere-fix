@@ -17,7 +17,7 @@ Atmosphere集合文件包（个人用），对应Swtich固件版可直接安装n
 https://github.com/Atmosphere-NX/Atmosphere
 ### hekate
 https://github.com/CTCaer/hekate
-### sigpatches from gbatemp
+### sigpatches from gbatemp (停更转战sys-patch)
 https://gbatemp.net/threads/571543/
 ### Sys-patch
 https://github.com/impeeza/sys-patch/releases
